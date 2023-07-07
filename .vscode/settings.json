@@ -1,0 +1,7 @@
+{
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.format.settings.url": "java-formatter.xml",
+  "[java]": {
+    "editor.tabSize": 4
+  }
+}
