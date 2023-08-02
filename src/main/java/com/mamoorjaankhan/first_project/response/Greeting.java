@@ -1,4 +1,4 @@
-package com.mamoorjaankhan.first_project.models;
+package com.mamoorjaankhan.first_project.response;
 
 public record Greeting(
         long id,
